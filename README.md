@@ -50,6 +50,6 @@ print(Dog:getBreed()) -- prints "Labrador"
 ## Where to get
 You can download it via
 ```bash
-wally add wurq5/LuaClass
+wally add wurq5/luaclass
 wally install
 ```
