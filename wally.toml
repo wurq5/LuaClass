@@ -1,0 +1,8 @@
+[package]
+name = "wurq5/luaclass"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dev-dependencies]
+TestEZ = "roblox/testez@0.4.1"
