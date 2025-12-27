@@ -46,3 +46,10 @@ Animal:makeNoise() -- prints "Noise!"
 Dog:makeNoise() -- prints "Bark! as the value is overwritten in DogClass but inherits the function from AnimalClass
 print(Dog:getBreed()) -- prints "Labrador"
 ```
+
+## Where to get
+You can download it via
+```bash
+wally add wurq5/LuaClass
+wally install
+```
